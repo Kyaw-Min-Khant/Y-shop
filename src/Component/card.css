@@ -1,0 +1,8 @@
+.card-size:hover{
+ transform: scale(1.02);
+ transition: 0.8s;
+background: #f9f6f6;
+}
+::-webkit-scrollbar {
+  display: none;
+}
